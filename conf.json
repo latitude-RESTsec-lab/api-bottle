@@ -1,0 +1,14 @@
+{
+    "Debug": "true",
+    "LogLocation": "./server.log",
+    "HttpPort": "80",
+    "HttpsPort": "443",
+    "TLSKeyLocation": "./devssl/server.key",
+    "TLSCertLocation": "./devssl/server.pem",
+    "DatabaseUser" : "sipac",
+    "DatabasePassword" : "1qaz2wsxsipac",
+    "DatabaseName" : "administrativo",
+    "DatabaseHost" : "10.30.0.10",
+    "DatabasePort" : "5432"
+
+}
